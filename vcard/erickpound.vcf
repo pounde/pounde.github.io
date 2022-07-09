@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Pound;Erick;;;
+FN:Erick Pound
+ORG:FDNY // DIU
+ADR;TYPE=WORK:
+TITLE:Lieutenant // ML Engineer
+TEL;TYPE=CELL:+1-917-678-0589
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:erick.pound@fdny.nyc.gov
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100209686
+END:VCARD
