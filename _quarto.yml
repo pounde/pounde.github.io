@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   title: "pounde.github.io"
   navbar:
@@ -14,6 +17,3 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-
-
