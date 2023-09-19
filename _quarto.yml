@@ -5,10 +5,12 @@ execute:
   freeze: auto
 
 website:
-  title: "pounde.github.io"
+  title: "Erick Pound"
   navbar:
     right:
       - about.qmd
+      # - text: reviews
+      #   href: reviews/index.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
