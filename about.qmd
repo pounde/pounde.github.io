@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/PoundErick
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/erick-pound/
+    - icon: github
+      text: Github
+      href: https://github.com/pounde
+
+---
+
+I'm Erick. AI/ML Engineer, Firefighter, Military.
