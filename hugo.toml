@@ -1,0 +1,21 @@
+baseURL = 'https://ejrp.me/'
+languageCode = 'en-us'
+title = 'EJRP'
+
+[params]
+  showShareButtons = false
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Writing"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
