@@ -63,10 +63,9 @@ paginate = 5
     Title = "Hi there 👋"
     Content = "Welcome to my personal website and blog."
 
-  [params.socialIcons]
-    [[params.socialIcons]]
-      name = "github"
-      url = "https://github.com/"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
 
 [menu]
   [[menu.main]]
