@@ -49,16 +49,14 @@ theme = 'PaperMod'
     imageWidth = 120
     imageHeight = 120
     imageTitle = ""
-    buttons = [
-      {
-        name = "Posts",
-        url = "posts"
-      },
-      {
-        name = "About",
-        url = "about"
-      }
-    ]
+
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "posts"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "about"
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
